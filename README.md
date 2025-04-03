@@ -1,6 +1,6 @@
-<h2 align="center">Senior Full Stack Developer | Python | Node.js | Docker | Cloud | AI </h3>
+<h2 align="center">Full Stack Web, Mobile & Software Dev | JavaScript | Python | C# | Node.js | Docker | Cloud | AI </h3>
 
-Throughout my career, I have faced and handled numerous challenges across frontend and backend, including development, release and maintenance. Recognizing that most awful were caused by poor architecture and habits, I intensified my focus on researching design patterns, clean code, and architectural principles.
+Experienced Senior Full Stack Engineer with a decade-long tenure in crafting and refining web and mobile applications. Proficient in guiding projects from inception to deployment, ensuring seamless user experiences and optimal functionality. Demonstrated leadership in team environments, adept at navigating challenges and fostering collaboration. Committed to continuous learning and innovation, always seeking out new approaches to elevate project outcomes and exceed client expectations
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjF2aThheTQyNXZ0cjAzZjdra3VrMGpuajQ2cXIzOG81aWlzc2xwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/SJ0MC2JYeU8tWP7G7Y/giphy.gif" height="54">
