@@ -1,6 +1,4 @@
-# 👋 Hello, I'm Pushkar Krishna Karakala
-
-🎯 **Senior Full Stack Engineer** | 15+ Years of Experience  
+🐞 **Senior Full Stack Engineer** | 15+ Years of Experience  
 💻 Python · Golang · React · AWS · Microservices · Cloud & DevOps
 
 ---
